@@ -35,7 +35,7 @@ const codeSnippets = {
   ],
   ar: [
     { text: "const مطور = 'أحمد';", type: "keyword" },
-    { text: "function حلالمشاكل() {", type: "function" },
+    { text: "function حل المشاكل() {", type: "function" },
     { text: "  return 'الابتكار';", type: "string" },
     { text: "}", type: "keyword" },
     { text: "// بناء المستقبل", type: "comment" },
